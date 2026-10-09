@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Ahmed 👋
 
-<!--
-**A7med-analytics/A7med-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst & Business Intelligence Specialist
+Turning raw business data into actionable insights through structured data models and interactive dashboards.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Toolkit
+
+| Tool | Focus & Expertise |
+| :---: | :--- |
+| <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" width="110"/> | Writing optimized queries, joins, CTEs, subqueries, and database analysis. |
+| <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" width="110"/> | Building Star Schema data models, DAX measures, and executive KPI dashboards. |
+| <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" width="110"/> | Power Query for ETL, dynamic formulas (XLOOKUP, INDEX/MATCH), and Pivot Tables. |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="110"/> | Data analysis with Pandas & NumPy, visualizations via Matplotlib, Seaborn, and Plotly. |
+
+---
+
+### 📬 Connect With Me
+- 💼 Find me on [LinkedIn](https://linkedin.com)

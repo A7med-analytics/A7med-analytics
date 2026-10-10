@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Ahmed Alaa 👋</h1>
+  <h1>Hello, World! I'm Ahmed Alaa 👋</h1>
   <p><strong>Data Analyst | Business Intelligence Specialist</strong></p>
   <p>Computer Science & AI Student @ Zagazig National University | DEPI Certified Data Analyst Specialist</p>
   
@@ -56,20 +56,9 @@
 
 | Credential | Issuer | Verification |
 | :--- | :---: | :---: |
-| **Data Analytics - Data Analyst Specialist** | MCIT (DEPI) | `Verified Trainee` |
-| **Business English Track (Round 4)** | MCIT (DEPI) / SYE | `Verified Trainee` |
+| **Data Analytics - Data Analyst Specialist** | MCIT (DEPI) | [View Certificate](https://drive.google.com/file/d/1_r04jFEDj5fuDvnvWiWury_oqhZ2OxgF/view?usp=sharing) |
+| **Business English Track (Round 4)** | MCIT (DEPI) / SYE | [View Certificate](https://drive.google.com/file/d/1JqObFpZU_vG3adpahFB2KndwJ7NHdzXg/view?usp=sharing) |
 | **Data Analysis with Python** | IBM | [Verify Certificate](https://coursera.org/verify/33Q89M20Z9F6) |
 | **Data Visualization with Python** | IBM | [Verify Certificate](https://coursera.org/verify/64VZMFWMVEIU) |
 | **Databases and SQL for Data Science with Python** | IBM | [Verify Certificate](https://coursera.org/verify/JELLEAGDHOYG) |
-| **Python for Data Science, AI & Development** | IBM | [Verify Certificate](https://coursera.org/verify/D1ELG4JYONDM) |
-| **Python Project for Data Science** | IBM | [Verify Certificate](https://coursera.org/verify/56565X469CD8) |
-
----
-
-### 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=A7med-analytics&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A7med-analytics&layout=compact&theme=radical" width="48%" />
-</p>
-```[cite: 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]
+| **Python for Data Science, AI & Development** | IBM |

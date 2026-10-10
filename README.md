@@ -16,7 +16,7 @@
 - 🎓 Pursuing a **B.Sc. in Computer Science and Artificial Intelligence** at Zagazig National University (Class of 2029).
 - 🏅 Certified **Data Analyst Specialist** through the **Digital Egypt Pioneers Initiative (DEPI)**.
 - 💡 Experienced in transforming raw datasets into meaningful business stories using **SQL, Power BI, Excel, and Python**.
-- 🚀 Strong foundation in Data Preprocessing, Star Schema Dimensional Modeling, DAX Measures, and Exploratory Data Analysis.
+- 🚀 Strong foundation in Data Preprocessing, Star Schema Dimensional Modeling, DAX Measures, Exploratory Data Analysis, and Statistical Modeling.
 
 ---
 
@@ -24,19 +24,34 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-CC292B?style=flat&logo=databricks&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=flat&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter" />
+</p>
+
+<p align="left">
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Web_Scraping-3776AB?style=flat&logo=python&logoColor=white" alt="Web Scraping" />
+</p>
+
+<p align="left">
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-388E3C?style=flat&logo=python&logoColor=white" alt="Seaborn" />
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" alt="Plotly" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Dash-008DE4?style=flat&logo=plotly&logoColor=white" alt="Dash" />
 </p>
 
 ---
@@ -61,4 +76,14 @@
 | **Data Analysis with Python** | IBM | [Verify Certificate](https://coursera.org/verify/33Q89M20Z9F6) |
 | **Data Visualization with Python** | IBM | [Verify Certificate](https://coursera.org/verify/64VZMFWMVEIU) |
 | **Databases and SQL for Data Science with Python** | IBM | [Verify Certificate](https://coursera.org/verify/JELLEAGDHOYG) |
-| **Python for Data Science, AI & Development** | IBM |
+| **Python for Data Science, AI & Development** | IBM | [Verify Certificate](https://coursera.org/verify/D1ELG4JYONDM) |
+| **Python Project for Data Science** | IBM | [Verify Certificate](https://coursera.org/verify/56565X469CD8) |
+
+---
+
+### 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=A7med-analytics&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A7med-analytics&layout=compact&theme=radical" width="48%" />
+</p>
